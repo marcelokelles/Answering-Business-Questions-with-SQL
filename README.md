@@ -1,2 +1,3 @@
 # Answering Business Questions with SQL
-Repository from Marcelo Pena Kelles https://www.linkedin.com/in/marcelokelles/
+Finding answers to business problems.
+And putting my SQL knowledge to the test in a made up business scenario.
